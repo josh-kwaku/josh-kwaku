@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the C programminng language & machine learning
 - 💞️ I’m looking to collaborate on solving interesting and challenging problems
 - 📫 How to reach me - kwakujosh@gmail.com
+- You can also check out my other repo @ https://github.com/Jake-parkers/
 
 <!---
 josh-kwaku/josh-kwaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
